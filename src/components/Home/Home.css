@@ -1,0 +1,16 @@
+.Home {
+    padding: 10px;
+}
+
+.list-group-item-action {
+    cursor: pointer;
+}
+
+ul[id^='child-topics-'] {
+    display: none;
+}
+
+.fa-book {
+    font-size: 20;
+    float: right;
+}

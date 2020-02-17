@@ -1,0 +1,16 @@
+.right-answer {
+    color: green!important;
+}
+
+.wrong-answer {
+    color: red!important;
+}
+
+#btn-do-testing-part-again, #btn-go-back-to-testing-part {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#btn-do-testing-part-again, #btn-go-back-to-testing-part {
+    display: none;
+}

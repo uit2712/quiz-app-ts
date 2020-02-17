@@ -1,0 +1,30 @@
+.Quiz-Test {
+    padding: 10px;
+}
+
+.hidden-answer {
+    display: none!important;
+}
+
+.visible-answer {
+    display: block!important;
+}
+
+#btn-confirm-answer, #btn-next-question {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#right-answer-alert, #wrong-answer-alert, #btn-next-question {
+    display: none;
+}
+
+.right-answer:checked~.custom-control-label::before {
+    color: white !important;
+    background-color: green !important;
+}
+
+.wrong-answer:checked~.custom-control-label::before {
+    color: white !important;
+    background-color: red !important;
+}

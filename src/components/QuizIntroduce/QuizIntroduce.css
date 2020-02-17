@@ -1,0 +1,16 @@
+.Quiz-Introduce {
+    padding: 10px;
+}
+
+.topic-description {
+    padding: 0px!important;
+}
+
+#btn-do-quiz {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.quiz-part {
+    margin-top: 10px;
+}
